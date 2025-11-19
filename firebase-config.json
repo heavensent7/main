@@ -1,0 +1,14 @@
+{
+  "version": "2",
+  "projectNumber": "289232920080",
+  "projectId": "heaven-sent-7-web",
+  "appId": "1:289232920080:web:f731a79157bed26162f495",
+  "realtimeDatabaseInstanceUri": "https://heaven-sent-7-web-default-rtdb.firebaseio.com",
+  "realtimeDatabaseUrl": "",
+  "storageBucket": "heaven-sent-7-web.firebasestorage.app",
+  "locationId": "",
+  "apiKey": "AIzaSyBsoNNKSofv7sG5L0jKDzl98hdf6kmOjoQ",
+  "authDomain": "heaven-sent-7-web.firebaseapp.com",
+  "messagingSenderId": "289232920080",
+  "measurementId": "G-NCP54JTVEJ"
+}
